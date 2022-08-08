@@ -6,6 +6,8 @@ This is a blog where developers can connect with eachother and talk all things t
 ## Usage
 Users are allowed to view the app without signing in, however in order to post or comment on a post the user must sign up and sign into an account. The app allows the user to post, update and delete posts. Along with these functions users can comment on others posts. 
 
+Deployed Heroku URL: https://mighty-anchorage-60198.herokuapp.com/
+
 Snapshot of app in action:
 ![image](https://user-images.githubusercontent.com/100968401/183320739-bbb6a894-f1df-4fce-934c-e2a0a5a91cef.png)
 
